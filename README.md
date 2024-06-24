@@ -1,9 +1,9 @@
-#HyperNym Tasks
+# HyperNym Tasks
 Tasks 1 to 5 have been performed on Linux Ubuntu 22.04 using WSL.
 Task 6 has been performed using Arduino IDE and AWS IoT Core
 
 
-##1. MQTT Communication 
+## 1. MQTT Communication 
 ### Performed on Linux Ubuntu 22.04 using WSL.
 
 1) Navigate to the directory with the name 'task_01'
@@ -11,7 +11,7 @@ Task 6 has been performed using Arduino IDE and AWS IoT Core
 3) Open a separate terminal and run the subscriber.py script. This script subscribes and then prints the recieved data.
 
 
-##2. TCP Communication
+## 2. TCP Communication
 ### Performed on Linux Ubuntu 22.04 using WSL.
 
 
