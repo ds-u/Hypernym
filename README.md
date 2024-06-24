@@ -28,8 +28,12 @@
 ![image](https://github.com/ds-u/Hypernym/assets/97378198/dcfb474f-2ed9-4d05-bb98-181ff53ec3ce)
 
 
-2. TCP Communication:
-o Implement a basic TCP server in Python that listens for incoming
-connections and receives data from an IoT device.
-o Write a client-side script in Python that connects to the TCP server and
-sends a JSON formatted message containing sensor readings.
+
+## 3. HTTP Communication
+### Performed on Linux Ubuntu 22.04 using WSL.
+
+1) 
+
+o Create a Python script to send HTTP POST requests to a cloud server
+(e.g., using Flask or FastAPI).
+o The server should receive and store JSON data sent from an IoT device.
