@@ -6,9 +6,13 @@
 1) Navigate to the directory with the name 'task_01'
 2) Open a terminal and run the publisher.py script using 'python3 publisher.py'. This script publishes data.
 
-![publisher_output](https://github.com/ds-u/Hypernym/assets/97378198/4daf8853-7523-413b-a027-7f8b527373e5)
+
 3) Open a separate terminal and run the subscriber.py script. This script subscribes and then prints the recieved data.
 
+#### Publisher output:
+![publisher_output](https://github.com/ds-u/Hypernym/assets/97378198/4daf8853-7523-413b-a027-7f8b527373e5)
+
+#### Subscriber output:
 ![subscriber_output](https://github.com/ds-u/Hypernym/assets/97378198/c88b3960-9054-42ee-a4d1-3c0f6ee885e7)
 
 
